@@ -90,7 +90,7 @@ Basic Usage Example:
 
 {exp:channel:entries}
 {exp:grid_relationship_field child_id="{entry_id}"}
-<p><a href="/{segment_1}/{parent_url_title}">{parent_title}</h3></a></p>
+<p><a href="/{segment_1}/{parent_url_title}">{parent_title}</a></p>
 {/exp:grid_relationship_field}
 {/exp:channel:entries}
 
